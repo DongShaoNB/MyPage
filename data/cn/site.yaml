@@ -1,0 +1,33 @@
+# Copyright Notice
+copyright: © 2024 Copyright.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "本主题采用 MIT 许可。因此，你可以将其用于非商业、商业或私人用途。
+您可以修改或分发本主题，无需获得主题作者的任何许可。
+不过，主题作者不对主题的任何问题提供任何保证或承担任何责任。"
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: DongShaoNB 的作品集和个人主页
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+customMenus:
+#- name: Docs
+#  url: https://toha-guides.netlify.app/posts/
+#  # specify whether to hide the menu item from top navbar or not.
+#  hideFromNavbar: false
+#  # specify whether to show the menu item in footer or not.
+#  # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+#  showOnFooter: false
+#- name: Blog
+#  url: https://blog.dsnb.cc/
+#  hideFromNavbar: false
+#  showOnFooter: true
+
+# Specify OpenGraph Headers
+openGraph:
+  title: DongShaoNB
+  type: website
+  description: DongShaoNB 的作品集和个人主页
+  image: images/author/dongshaonb.png
+  url: https://dsnb.cc/

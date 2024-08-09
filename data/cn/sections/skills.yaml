@@ -1,0 +1,37 @@
+# section information
+section:
+  name: 技能
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: /images/sections/skills/python.svg
+  summary: "Python is a programming language that lets you work quickly and integrate systems more effectively."
+  url: "https://python.org/"
+
+- name: Java
+  logo: /images/sections/skills/java.svg
+  summary: "Java is the #1 programming language and development platform. It reduces costs, shortens development timeframes, drives innovation, and improves application services."
+  url: "https://java.com/"
+
+- name: Kotlin
+  logo: /images/sections/skills/kotlin.svg
+  summary: "Kotlin is a modern but already mature programming language designed to make developers happier. It's concise, safe, interoperable with Java and other languages."
+  url: "https://kotlinlang.org/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Docker is an open platform for developing, shipping, and running applications."
+  url: "https://docker.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.svg
+  summary: "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+  url: "https://git-scm.com/"

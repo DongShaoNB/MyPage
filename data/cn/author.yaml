@@ -1,0 +1,20 @@
+# some information about you
+name: "DongShaoNB"
+nickname: "东少"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "你好，我是"
+image: "images/author/dongshaonb.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "i@dsnb.cc"
+  # phone: "+0123456789"
+  github: DongShaoNB
+  # linkedin: johndoe
+  # researchgate: john-doe
+
+# some summary about what you do
+summary:
+  - 我是一个开发者
+  - 我是一个我的世界服务器服主
+  - 我喜欢服务器
+  - 我喜欢开发一些有趣的项目
