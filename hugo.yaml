@@ -1,0 +1,30 @@
+baseURL: https://dsnb.cc
+locale: zh-hans
+title: DongShaoNB's HomePage
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    title: "DongShaoNB (东少)" # optional default will be site title
+    subtitle: "Welcome to my homepage / 欢迎来到我的主页"
+    imageUrl: "/images/avatar.jpg"
+    # imageTitle: "<title of image as alt>" # optional
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: Blog
+        url: "https://blog.dsnb.cc"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/DongShaoNB"
+    - name: "qq"
+      url: "https://qm.qq.com/q/zJ6AsPJWjQ"
+    - name: "discord"
+      url: "https://discord.gg/bnpzsmPz26"
+    - name: "x"
+      url: "https://x.com/DongShaoNB"
+    - name: "email"
+      url: "mailto:i@dsnb.cc"
