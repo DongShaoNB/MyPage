@@ -3,7 +3,23 @@ locale: zh-hans
 title: DongShaoNB's HomePage
 theme: ["PaperMod"]
 
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
 params:
+  assets:
+    favicon: "❤️"
+    favicon16x16: "❤️"
+    favicon32x32: "❤️"
+    apple_touch_icon: "❤️"
+    safari_pinned_tab: "❤️"
+  env: production
+  title: DongShaoNB's HomePage
+  description: "DongShaoNB's HomePage / 东少的主页"
+  author: DongShaoNB
   defaultTheme: auto
   profileMode:
     enabled: true
@@ -28,3 +44,9 @@ params:
       url: "https://x.com/DongShaoNB"
     - name: "email"
       url: "mailto:i@dsnb.cc"
+
+  analytics:
+    google:
+      SiteVerificationTag: "nflkDHmIOdy_DlPX_Nfg6SGLl5LmfNbhs3yrfeUrBSY"
+    bing:
+      SiteVerificationTag: "53AB7BB2194305AE5DE0718C12339B2E"
