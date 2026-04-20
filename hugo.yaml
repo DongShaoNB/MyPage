@@ -11,11 +11,11 @@ minify:
 
 params:
   assets:
-    favicon: "❤️"
-    favicon16x16: "❤️"
-    favicon32x32: "❤️"
-    apple_touch_icon: "❤️"
-    safari_pinned_tab: "❤️"
+    favicon: "/images/favicon.png"
+    favicon16x16: "/images/favicon_16x16.png"
+    favicon32x32: "/images/favicon_32x32.png"
+    apple_touch_icon: "/images/favicon.png"
+    safari_pinned_tab: "/images/favicon.png"
   env: production
   title: DongShaoNB's HomePage
   description: "DongShaoNB's HomePage / 东少的主页"
